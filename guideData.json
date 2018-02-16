@@ -1,5 +1,11 @@
 {
  "1" : [
      "What should I do with expired fruit?", "By EPA", "epa.gov", "Fruits look good for only so long, but that doesn't mean that they are necessarily bad. If they are, then"
-     ]   
+     ],
+ "2" : [
+    "How can I throw away fewer groceries?", "By EPA", "https://www.epa.gov/recycle/reducing-wasted-food-home", "Include quantities on your shopping list noting how many meals you’ll make with each item to avoid overbuying. For example: salad greens - enough for two lunches"
+  ],
+ "3" : [
+    "How can I preserve my fruits?", "By EPA", "https://www.epa.gov/recycle/reducing-wasted-food-home", "Many fruits give off natural gases as they ripen, making other nearby produce spoil faster. Store bananas, apples, and tomatoes by themselves, and store fruits and vegetables in different bins."
+  ]
 }
